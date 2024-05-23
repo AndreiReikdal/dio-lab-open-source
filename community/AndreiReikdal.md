@@ -1,8 +1,7 @@
 ## Olá, eu Andrei Daniel Reikdal Stachera 👋🏽
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrei-daniel-reikdal-stachera-66a3a117a/)
 ## Sobre Min
-Eu sou estudante de Análise e Desenvolvimento de Sistemas (ADS). Gosto bastante da  área de Ciencia . Gosto de explorar o mundo e usar a tecnologia para isso. 
-Meu objetivo é me tornar um desenvolvedor completo, unindo minha paixão em observar o mundo e usar a tecnilofia para .
+Eu sou estudante de Análise e Desenvolvimento de Sistemas (ADS). Gosto bastante da área de Ciência. Gosto de explorar o mundo e usar a tecnologia para isso. Meu objetivo é me tornar um desenvolvedor completo, unindo minha paixão em observar o mundo e usar a tecnologia para isso.
 
 
 ## GitHub stats
