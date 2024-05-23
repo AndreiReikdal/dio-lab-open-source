@@ -14,16 +14,13 @@ Meu objetivo é me tornar um desenvolvedor completo, unindo minha paixão em obs
 ## Tecnologias 
 
 <div style="display: inline_block: "><br/>
+ 
 <img align="center" alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white"/>
 <img align="center" alt=".net" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
 <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
-
 <img align="center" alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/> 
 
- 
-
- 
 </div>
 <br/>
 
-### I love learning and creating projects
+
